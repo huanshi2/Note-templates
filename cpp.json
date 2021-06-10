@@ -1,0 +1,28 @@
+{
+	"HEADER": {
+		"prefix": "header",
+		"body": [
+			"/*",
+			"@File    :   $TM_FILENAME",
+			"@Time    :   $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"@Author  :   huanshi2 ",
+			"@Email :     1557679224@qq.com",
+			"@Desc    :   None",
+			"*/",
+			"",
+			"$0"
+		],
+	},
+	"function": {        
+		"prefix": "funczs",        
+		"body": [
+			"/*",            
+			"@Time    :   $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"@Desc    :   ",
+			"@Param   :   ",
+			"@Returns :   ",
+			"*/",
+		"$0"        
+		],
+	}
+}
